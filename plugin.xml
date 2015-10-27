@@ -20,7 +20,9 @@
     <author>Sebastián Katzer</author>
 
     <!-- dependencies -->
-    <dependency id="org.apache.cordova.device" repo="https://github.com/web-slinger/cordova-plugin-device.git" />
+    <dependency
+        id="org.apache.cordova.device"
+        url="https://github.com/web-slinger/cordova-plugin-device" />
 
     <!-- cordova -->
     <engines>

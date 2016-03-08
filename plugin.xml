@@ -20,9 +20,9 @@
     <author>Sebastián Katzer</author>
 
     <!-- dependencies -->
-    <dependency
-        id="cordova-plugin-device"
-        url="https://github.com/web-slinger/cordova-plugin-device" />
+    <!--<dependency-->
+    <!--    id="cordova-plugin-device"-->
+    <!--    url="https://github.com/web-slinger/cordova-plugin-device" />-->
 
     <!-- cordova -->
     <engines>
